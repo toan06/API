@@ -1,16 +1,10 @@
-<?php 
-$sl = $_GET['sl'];
-$tl = $_GET['tl'];
-$q = $_GET['q'];
 
-
-?>
 <script>
 /*
 
 */
 var r = new XMLHttpRequest();
-	r.open("GET", "https://translate.googleapis.com/translate_a/single?client=gtx&tl="+"<?php echo $tl,"&sl=".$sl; ?>"+"&dt=t&q="+"<?php echo $q;?>", false);
+	r.open("GET", "https://translate.googleapis.com/translate_a/single?client=gtx&tl=vi&sl=eng&dt=t&q=xin+chào", false);
 	r.send();
 	var data = JSON.parse(r.responseText);
 	dt1 = data[0][0][0];
