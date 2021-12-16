@@ -14,7 +14,7 @@ Something like:
 * This item is quite simple, you just need to use localhost or hosting to use it 
 * But if that API has to be implemented continuously, Then we can't monitor continuously
 ## Automatic
-* Usually, they will use firebase and some major platforms that support running code in the cloud
-* firebase is free but still need a credit card to unlock some functions so i won't use it
+* Usually, they will use [firebase](https://google.com/search?q=what+is+firsebase) and some major platforms that support running code in the cloud
+* [_firebase_](https://console.firebase.google.com/) is free but still need a credit card to unlock some functions so i won't use it
 * I will use [google sheets](https://script.google.com) It's pretty easy to use, it's free, but it's also from Google
 * Go to [google sheets](https://script.google.com) 
