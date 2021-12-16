@@ -15,7 +15,7 @@ Ex:
 * Step3: Choose a new project
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_174451.png)
 * Step4: After creating a new project you will have a screen like
-![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_174224.png)
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_180222.png)
 * Step5: Add _Youtube api v3_ in the _service_ section
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_173627.png)
 * Step6: after completing the above steps you will now copy the code [auto_change_title](https://raw.githack.com/toan06/API/main/YT/auto_change_title.gs), Note that you need to put the code in a function and the name of that function must be unique and cannot be duplicated
