@@ -36,4 +36,4 @@ Ex:
 * Option 2: first part
 * Option 3: by the time
 * Option 4: minute clock
->_5:_ 1 minute at a time
+* Option 5: minute at a time
