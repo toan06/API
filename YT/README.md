@@ -22,6 +22,7 @@ Ex:
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_180222.png) 
 * Step7: Save it and run if the result at the logger screen Like below is successful, now let it automatically execute the query
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_180222.png)
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_181014.png)
 ## USE.2:
 ### automatic:
 * Step1:
