@@ -32,8 +32,8 @@ Ex:
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182709.png)
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182728.png)
 * step3: At the first item you need to choose the function name that you have set at the beginning or leave the default as myFunction()
->_1:_ Your function name
->_2:_ first part
->_3:_ by the time
->_4:_ minute clock
+* Option 1: Your function name
+* Option 2: first part
+* Option 3: by the time
+* Option 4: minute clock
 >_5:_ 1 minute at a time
