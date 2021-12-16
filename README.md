@@ -10,7 +10,7 @@ Something like:
 
 # setup:
 ## __notes:__
->The YOUTUBE API service has a query limit of 1 thing called [_QUOTA_](https://developers.google.com/youtube/v3/getting-started) , by default you will have 10,000 quota, 1 query or delete, add data will lose a certain quota.
+>The [YOUTUBE API](https://developers.google.com/youtube/v3) service has a query limit of 1 thing called [_QUOTA_](https://developers.google.com/youtube/v3/getting-started) , by default you will have 10,000 quota, 1 query or delete, add data will lose a certain quota.
 ## Handmade  
 * it is quite simple to run it manually, you just need to register on the developer page of the service you want to use the API Like [Facebook](https://developers.facebook.com) or [google](https://developers.google.com)
 * This item is quite simple, you just need to use localhost or hosting to use it 
