@@ -11,3 +11,4 @@ Ex:
 ## USE [auto_change_title](https://github.com/toan06/API/blob/main/YT/auto_change_title.gs)
 * step1: Login to google sheets account with YT account containing video
 * step2: Click on the 3 dashes on the left to select, new project
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_174438.png)
