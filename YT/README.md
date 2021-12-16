@@ -25,4 +25,9 @@ Ex:
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_181014.png)
 ## USE.2:
 ### automatic:
-* Step1:
+* Step1: Click on the clock image in the menu selection
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182343.png)
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182404.png)
+* Step2: Set automation time 
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182709.png)
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182728.png)
