@@ -13,6 +13,7 @@ Something like:
 * it is quite simple to run it manually, you just need to register on the developer page of the service you want to use the API Like [Facebook](https://developers.facebook.com) or [google](https://developers.google.com)
 * This item is quite simple, you just need to use localhost or hosting to use it 
 * But if that API has to be implemented continuously, Then we can't monitor continuously
+* So we need a platform that supports automating it
 ## Automatic
 * Usually, they will use [firebase](https://google.com/search?q=what+is+firsebase) and some major platforms that support running code in the cloud
 * [_firebase_](https://console.firebase.google.com/) is free but still need a credit card to unlock some functions so i won't use it
