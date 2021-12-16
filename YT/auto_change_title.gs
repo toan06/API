@@ -1,4 +1,4 @@
-var videoID = 'LONZOIscXcs'; e.com/*/
+var videoID = 'LONZOIscXcs'; 
 /*your video id
 https://YouTube.com/LONZOIscXcs
 notes: 
