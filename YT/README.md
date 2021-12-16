@@ -30,7 +30,7 @@ Ex:
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182404.png)
 * Step2: Set automation time 
 ![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182709.png)
-![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_182728.png)
+![](https://github.com/toan06/API/blob/main/img/Screenshot_20211216_184548.png)
 * step3: At the first item you need to choose the function name that you have set at the beginning or leave the default as myFunction()
 * Option 1: Your function name
 * Option 2: first part
