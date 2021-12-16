@@ -14,4 +14,4 @@ Something like:
 * This item is quite simple, you just need to use localhost or hosting to use it 
 * But if that API has to be implemented continuously, Then we can't monitor continuously
 ## Automatic
-* ....
+* Usually, they will use firebase and some major platforms that support running code in the cloud
