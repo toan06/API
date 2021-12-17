@@ -37,3 +37,4 @@ Ex:
 * Option 3: by the time
 * Option 4: minute clock
 * Option 5: minute at a time
+* But if minute at a time, the quota will be exhausted after a few hours, so you should choose every 5 minutes
